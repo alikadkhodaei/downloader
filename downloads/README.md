@@ -1,10 +1,6 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [texstudio-4.9.2-win-qt6-signed](./texstudio-4.9.2-win-qt6-signed)
 
 ---
 
